@@ -1,0 +1,8 @@
+- [x] Update main container background and shadow for dark mode
+- [x] Update heading text color for dark mode
+- [x] Update form labels for dark mode (title, description, module)
+- [x] Update input fields for dark mode (title, description)
+- [x] Update select fields for dark mode (module, filiere)
+- [x] Update error messages for dark mode
+- [x] Update help text for dark mode
+- [x] Test the dark mode UI
